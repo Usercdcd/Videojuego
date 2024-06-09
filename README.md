@@ -25,3 +25,5 @@ En este juego, los jugadores controlan una nave espacial que debe esquivar los d
 - src/menu.py: Lógica del menú principal.
 - src/settings.py: Configuraciones del juego.
 - src/music.py: Módulo para la reproducción de música.
+- graphics/: Contiene los fondos del juego.
+- audio/: Contiene la música y efectos de sonido.

@@ -12,6 +12,11 @@ En este juego, los jugadores controlan una nave espacial que debe esquivar los d
 ## Requisitos del Sistema
 - Python 3.x
 - Pygame
+## Ejecucion del código
+1.  Abre el repositorio desde Vscode
+2.  Haces cliclk en main.py
+3.  Desde main.py corres el codigo, (en algunos computadores con F5 corre el codigo)
+4.  Una vez hecho lo anterior ya deberia correr el juego
 ## Cómo Jugar
 1. Ejecuta el juego con el comando anterior.
 2. En el menú principal, selecciona "Run" para empezar el juego.

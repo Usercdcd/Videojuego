@@ -33,12 +33,12 @@ if __name__ == '__main__':
                     state.enemies.gunfire()
 
                 if not state.player.sprite.alive:
-                    message = f'You have lost! Your score: {state.score}'
+                    message = f'Perdiste! Este es tu puntaje: {state.score}'
                     menu = Menu(screen, message)
                     state = menu
 
                 elif state.extra_enemy and not state.extra_enemy.sprite.alive:
-                    message = f'You have won! Your score: {state.score}'
+                    message = f'Haz ganado! Este es tu puntaje: {state.score}'
                     menu = Menu(screen, message)
                     state = menu
 

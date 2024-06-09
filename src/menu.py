@@ -74,9 +74,9 @@ class Menu:
         self.background_surf = self.BACKGROUND_IMAGE.convert_alpha()
         self.background_rect = self.background_surf.get_rect(topleft=(0, 0))
         self.screen = screen
-        self.button_run = Button(text='RUN', position=(0.5*Settings.WIDTH, 0.35*Settings.HEIGHT), screen=screen)
-        self.button_exit = Button(text='EXIT', position=(0.5*Settings.WIDTH, 0.65*Settings.HEIGHT), screen=screen)
-        self.button_settings = Button(text='SETTINGS', position=(0.5*Settings.WIDTH, 0.5*Settings.HEIGHT), screen=screen)
+        self.button_run = Button(text='JUGAR', position=(0.5*Settings.WIDTH, 0.35*Settings.HEIGHT), screen=screen)
+        self.button_exit = Button(text='SALIR', position=(0.5*Settings.WIDTH, 0.65*Settings.HEIGHT), screen=screen)
+        self.button_settings = Button(text='AJUSTES', position=(0.5*Settings.WIDTH, 0.5*Settings.HEIGHT), screen=screen)
     
     def __str__(self):
         return 'menu'

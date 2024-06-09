@@ -1,7 +1,7 @@
 # Juego de Nave Espacial en Pygame
+Este es un juego desarrollado en Pygame donde los jugadores controlan una nave espacial que debe esquivar los disparos de los enemigos y ganar puntos.
 ## Integrantes:
 Miguel Aponte (Lider) Cristian Morales (Colaborador)
-Este es un juego desarrollado en Pygame donde los jugadores controlan una nave espacial que debe esquivar los disparos de los enemigos y ganar puntos.
 ## Descripción
 En este juego, los jugadores controlan una nave espacial que debe esquivar los disparos de los enemigos mientras trata de sobrevivir el mayor tiempo posible. El juego cuenta con un menú principal desde donde se puede iniciar la partida o salir del juego. El objetivo es sobrevivir el mayor tiempo posible y obtener la mayor puntuación.
 ## Características
